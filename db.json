@@ -1,4 +1,4 @@
-export const data = JSON.parse('{
+{
   "users": [
     {
       "id": 1,
